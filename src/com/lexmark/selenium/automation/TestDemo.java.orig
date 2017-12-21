@@ -1,0 +1,14 @@
+package com.lexmark.selenium.automation;
+
+public class TestDemo {
+
+	public static void main(String[] args) {
+<<<<<<< HEAD
+		System.out.println("sureshshaw2402");
+		System.out.println("sureshshaw2402");
+=======
+		System.out.println("sureshshsdcscsdvcsawMac");
+>>>>>>> Changes in Mac newww
+	}
+
+}
