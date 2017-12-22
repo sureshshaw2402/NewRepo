@@ -4,11 +4,12 @@ public class TestDemo {
 
 	public static void main(String[] args) {
 <<<<<<< HEAD
-		System.out.println("sureshshaw2402");
-		System.out.println("sureshshaw2402");
+		System.out.println("sureshshawMac New C");
+		System.out.println("sureshshaw2402WIN10");
 =======
-		System.out.println("sureshshsdcscsdvcsawMac");
->>>>>>> Changes in Mac newww
+		System.out.println("sureshshaw Mac New Changes");
+		System.out.println("sureshshaw WIN10");
+>>>>>>> branch 'master' of https://github.com/sureshshaw2402/NewRepo.git
 	}
 
 }
